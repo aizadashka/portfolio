@@ -483,7 +483,7 @@ body:not(.user-is-tabbing) a:focus {
 
 .work__code {
     display: block;
-    height: 3rem;
+    font-size: 3rem;
     margin-left: var(--gutter-normal);
     transition: all .3s;
 }
@@ -596,7 +596,8 @@ body:not(.user-is-tabbing) a:focus {
 }
 
 .footer__social-image {
-    height: 4rem;
+    font-size: 4rem;
+    color: white;
 }
 
 .footer__github-buttons {
